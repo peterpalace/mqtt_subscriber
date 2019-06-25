@@ -1,0 +1,10 @@
+{
+  "passphrase": "passphrase",
+  "privateKeyPath": "path/to/private/key",
+  "broker": {
+    "host": "mqtts://localhost:8443",
+    "username": "subscriber",
+    "password": "SgePnQ8fDShnyC3ZdTAy5ZGaW0rSVwVtDVO1QF1kuNs",
+    "topic": "/admin/pm10"
+  }
+}
